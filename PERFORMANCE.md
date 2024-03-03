@@ -25,5 +25,5 @@ Content: The sun is hot because of the nuclear fusion that takes place within...
 
 [How page speed affects Web User Experience -- uxplanet](https://uxplanet.org/how-page-speed-affects-web-user-experience-83b6d6b1d7d7)  
 [Understanding performance benchmarks for LLM inference -- baseten](https://www.baseten.co/blog/understanding-performance-benchmarks-for-llm-inference/)  
-[Reproducible Performance Metrics for LLM inference](https://www.anyscale.com/blog/reproducible-performance-metrics-for-llm-inference)
+[Reproducible Performance Metrics for LLM inference](https://www.anyscale.com/blog/reproducible-performance-metrics-for-llm-inference)  
 [Apache Bench](https://httpd.apache.org/docs/2.4/programs/ab.html)
