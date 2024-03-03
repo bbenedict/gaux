@@ -18,6 +18,6 @@ Score: 0.1744067370891571,  Reference: Baseball is played in the summer and fall
 
 ## Resources
 
-[Semantic Similarity of Two Phrases -- discusses similarity](https://www.baeldung.com/cs/semantic-similarity-of-two-phrases)  
+[Semantic Similarity of Two Phrases -- Baeldung](https://www.baeldung.com/cs/semantic-similarity-of-two-phrases)  
 [White paper on SemScore that describes an approach to accuracy](https://huggingface.co/papers/2401.17072)  
 [Stanford Center for Research on Foundation Models](https://crfm.stanford.edu/helm/lite/latest/#/) and related [GitHub](https://github.com/stanford-crfm)  
