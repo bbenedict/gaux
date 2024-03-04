@@ -7,7 +7,7 @@ How can we detect hallucinations?  In the book, "The AI Revolution in Medicine",
 <div style="padding-left:40px;padding-right:40px;margin-bottom:20px">
 Question to LLM: Can you check this conversation between a human and an AI-powered chatbot for errors?</br> 
 Reply from LLM: It appears that there is an error in the AI’s response. AI-powered chatbots do not have personal experiences or educational backgrounds like humans do.
-</div>
+</div>  
 
 Another way to check for hallucination is using the FActScore approach. We use an LLM to break the output into specific facts.  We then use an LLM to determine if each fact is true or false.  The example code illustrates how this is done.  Use the following commands to run the example. You only need to run the install command the first time. Python 3.10 is required. 
 
