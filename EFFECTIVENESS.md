@@ -46,4 +46,5 @@ The answer is 13.
 ## Resources
 
 [The art of prompting: how to win -- Alkymi](https://www.alkymi.io/resources/blog/the-art-of-prompting-how-to-win-conversations-and-influence-llms)  
-[Prompt engineering: A guide to improving LLM performance -- circleci](https://circleci.com/blog/prompt-engineering/)
+[Prompt engineering: A guide to improving LLM performance -- circleci](https://circleci.com/blog/prompt-engineering/)  
+[Chatbot Arena](https://lmsys.org/blog/2023-12-07-leaderboard/)  
