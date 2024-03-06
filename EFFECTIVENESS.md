@@ -1,6 +1,6 @@
 ## Effectiveness
 
-Effectiveness for LLMs comes down to how well did the LLM complete the desired task.  For example, if you asked an LLM to summarize a video meeting, is the result a short an accurate summary of what was discussed?  Is it too long to be considered a summary?  
+Effectiveness for LLMs comes down to how well did the LLM complete the desired task.  For example, if you asked an LLM to summarize a video meeting, is the result a short and accurate summary of what was discussed?  Is it too long to be considered a summary?  
 
 In the article, "The art of prompting: how to win", by Keerti Hariharan, the author states, "If you are using an LLM, prompting is at the heart of making it effective. Your prompt provides a roadmap for the model to generate meaningful responses."
 
