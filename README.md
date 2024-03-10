@@ -37,3 +37,4 @@ Was the generated output effective at the requested task?  For example, is it a 
 [Generative AI: How do we measure success? -- LinkedIn](https://www.linkedin.com/pulse/generative-ai-how-do-we-measure-success-mj-petroni/)  
 [Evaluating LLM Applications -- HumanLoop](https://humanloop.com/blog/evaluating-llm-apps)  
 [How to Evaluate LLMs: A Complete Metric Framework -- Microsoft](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/how-to-evaluate-llms-a-complete-metric-framework/)  
+[LLM Evals and Benchmarking](https://osanseviero.github.io/hackerllama/blog/posts/llm_evals/)
